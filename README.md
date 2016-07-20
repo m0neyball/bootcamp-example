@@ -1,1 +1,4 @@
 # bootcamp-example
+
+* hello
+* world
