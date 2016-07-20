@@ -1,1 +1,3 @@
 # bootcamp-example
+
+* hello
